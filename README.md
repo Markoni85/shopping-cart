@@ -1,2 +1,2 @@
 # shopping-cart
-Test Jenkis integration
+Test Jenkis integration: github integration
